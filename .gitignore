@@ -1,2 +1,5 @@
 .venv
 x_credentials.json
+better_key.pem
+airflow_ec2_key.pem
+tweets.csv
